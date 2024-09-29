@@ -1,0 +1,6 @@
+E:\projects\C++\ProjectsManagement\x64\Debug\project.vcxproj.CopyComplete
+E:\projects\C++\ProjectsManagement\x64\Debug\project.exe
+E:\projects\C++\ProjectsManagement\x64\Debug\Spire.Xls.Cpp.dll
+E:\projects\C++\ProjectsManagement\x64\Debug\Spire.Xls.Cpp.lib
+E:\projects\C++\ProjectsManagement\x64\Debug\Spire.Xls.Base.dll
+E:\projects\C++\ProjectsManagement\x64\Debug\libSkiaSharp.dll
